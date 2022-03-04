@@ -91,7 +91,7 @@ Explotó entre 2000-2001.
 
 En España, el fracaso más conocido fue el de Terra, filial de internet de Telefónica.
 
-### La crisis de 2007
+## La crisis de 2007
 
 El mercado se dio cuenta que con el internet había invertido en algo intangible que no entendía, y se dio cuenta que podía invertir en algo más seguro y sólido como una casa...bienes raíces. Y volvió a ocurrir una crisis, sólo que esta vez algunos de los bancos de inversión más grandes del mundo desaparecieron.
 
@@ -100,3 +100,49 @@ El mercado se dio cuenta que con el internet había invertido en algo intangible
 - Merril Lynch es vendido a Bank of America.
 - Fannie Mae y Feddie Mac tienen qué ser nacionalizadas
 - Wall Street pierde el 20% de su valor en octubre de 2008.
+
+Aquí van algunos apuntes sobre la crisis del 2007:
+
+- Precondiciones: Hacia 2003, los tipos de interés están por los suelos, bancos y consumidores se ven incentivados a pedir dinero prestado.
+- Los bancos empiezan a prestar dinero a mansalva. Se financia el 100% de créditos hipotecarios a personas que no tienen dinero para pagarlos.
+- Todo el mundo cree que invertir en bienes raíces es un gran negocio porque el precio nunca va a bajar.
+- Las empresas relacionadas con la burbuja, bancos e inmobiliarias, se sobrevaloran.
+- Ya no hay protección del ahorro minoritario vs la banca de inversión. Se crea un efecto dominó. Empieza en EU con las hipotecas subprime, y se expande al resto de países.
+- Los gobiernos tienen qué rescatar a los bancos.
+- El dinero público se vuelca a salvar a los bancos, pero en el sector social se adoptan políticas de recorte estilo Herbert Hoover.
+
+## Invirtiendo en países
+
+El mundo se dio cuenta de que la bolsa era sumamente inestable. Las empresas que cotizaban en bolsa mentían, las agencias calificadoras les seguían el juego, los bancos ocultaban sus balances, etc.
+
+Así que los especuladores profesionales encontraron una nueva vía de negocio: La deuda pública de los países europeos.
+
+Historia detrás:
+
+Tiempo antes, bancos como JP Morgan se habían creado de la nada un indicador llamado **CDS (Credit Default Swap)**, que cuantifica hasta qué punto un bono o préstamo es seguro. Basicamente, **un CDS es un contrato que, a cambio de una cuota, asegura al inversor ante una posible caída del valor que ha adquirido.**
+
+Cuanto más alto es el precio de un CDS, mayor el riesgo de que la inversión salga mal. Tomar en cuenta que los CDSs son un producto de un banco de inversión, cuyo interés es sacar el máximo beneficio del dinero de sus clientes, no importa cómo.
+
+Así que primero lo probaron con Grecia. En enero 2007, el valor del CDS era de 7.38 pts. En enero 2009, estaba en 230. Septiembre de 2011, tenía un valor de 5349 pts.
+
+Según el libro, los bancos crearon un miedo artificial a que Grecia fuera incapaz de pagar sus deudas y se fuera a bancarrota. El miedo, por supuesto, se hizo real, y el precio de la deuda pública -no solo de Grecia, sino de diferentes países víctimas de este 'ataque'-, se fue a los cielos.
+
+Derrepente los Estados tenían que pagar intereses altísimos para financiarse y poder obtener el dinero con el qué pagar nóminas, construir carreteras o pagar pensiones.
+
+La Unión Europea tuvo qué entrar al rescate de varios de estos países.
+
+El autor pone el ejemplo de España, donde el gobierno español 'saneó' al sistema bancario con una exorbitante cantidad de 50 billones de euros. El gobierno español a su vez pidió algo de ese dinero prestado a organismos internacionales, y esa deuda la pagarán los ciudadanos de una u otra forma por muchísimos años, todo esto derivado de las prácticas nada éticas de un grupo de bancos de inversión.
+
+## Actualidad
+
+En los años 2016-2019, los mercados en general se ven marcados por la _lateralidad_, ni un movimiento claro hacia arriba ni hacia abajo.
+
+## Trading de alta velocidad
+
+Se calcula que actualmente entre el 51% y el 65% de las operaciones intradía en el New York Stock Exchange son realizadas exclusivamente por computadoras, parte de un fenómeno conocido como high frequency trading. El [High Frequency Trading](https://en.wikipedia.org/wiki/High-frequency_trading) es todo un tema, pero la idea es que una parte muy importante de las operaciones son llevadas a cabo por computadoras sin supervisión humana.
+
+Esto ocasionó que el 6 de mayo de 2010, el Dow Jones cayera un 9% en unos minutos para recuperarse unos minutos después. Este fenómeno fue conocido como el [Flash Crash](https://en.wikipedia.org/wiki/2010_flash_crash).
+
+## Conclusión
+
+Conclusión del autor después de larga exposición sobre el estado actual de las cosas: No son los tiempos más seguros para invertir en la bolsa a largo plazo, recomienda el trading intradía.
