@@ -7,3 +7,7 @@ Credit Default Swap (CDS)
 High Frequency Trading (HFT)
 
 > Brief explanation
+
+Contract For Difference (CFD)
+
+> Definition
