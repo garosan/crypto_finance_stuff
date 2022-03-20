@@ -144,23 +144,12 @@ ERC-721: Non-fungible tokens.
 
 ### Ch3 Links
 
-What is Ethereum? [The Most Updated Step-by-Step-Guide!]
-https://blockgeeks.com/guides/ethereum/
-
-Smart Contracts: The Blockchain Technology That Will Replace Lawyers
-https://blockgeeks.com/guides/smart-contracts/
-
-What is Ethereum Gas? [The Most Comprehensive Step-By-Step Guide Ever!]
-https://blockgeeks.com/guides/ethereum-gas/
-
-The trillion dollar case for ETH (Full)
-https://newsletter.banklesshq.com/p/the-trillion-dollar-case-for-eth-eb6
-
-Ethereum: The Digital Finance Stack
-https://medium.com/pov-crypto/ethereum-the-digital-finance-stack-4ba988c6c14b
-
-Ether: A New Model for Money
-https://medium.com/pov-crypto/ether-a-new-model-for-money-17365b5535ba
+- [What is Ethereum? (The Most Updated Step-by-Step-Guide!)](https://blockgeeks.com/guides/ethereum/)
+- [Smart Contracts: The Blockchain Technology That Will Replace Lawyers](https://blockgeeks.com/guides/smart-contracts/)
+- [What is Ethereum Gas? (The Most Comprehensive Step-By-Step Guide Ever!)](https://blockgeeks.com/guides/ethereum-gas/)
+- [The trillion dollar case for ETH (Full)](https://newsletter.banklesshq.com/p/the-trillion-dollar-case-for-eth-eb6)
+- [Ethereum: The Digital Finance Stack](https://medium.com/pov-crypto/ethereum-the-digital-finance-stack-4ba988c6c14b)
+- [Ether: A New Model for Money](https://medium.com/pov-crypto/ether-a-new-model-for-money-17365b5535ba)
 
 ## Chapter 4: Ethereum Wallets
 
@@ -189,17 +178,10 @@ Metamask accomplishes this by injecting a javascript library known as web3.js
 
 ### Ch4 Links
 
-Argent: The quick start guide (Matthew Wright)
-https://medium.com/argenthq/argent-the-quick-start-guide-13541ce2b1fb
-
-A new era for crypto security (Itamar Lesuisse)
-https://medium.com/argenthq/a-new-era-for-crypto-security-57909a095ae3
-
-A Complete Beginner’s Guide to Using MetaMask (Ian Lee)
-https://www.coingecko.com/buzz/complete-beginners-guide-to-metamask
-
-MyCrypto’s Security Guide For Dummies And Smart People Too
-https://medium.com/mycrypto/mycryptos-security-guide-for-dummies-and-smart-people-too-ab178299c82e
+- [Argent: The quick start guide (Matthew Wright)](https://medium.com/argenthq/argent-the-quick-start-guide-13541ce2b1fb)
+- [A new era for crypto security (Itamar Lesuisse)](https://medium.com/argenthq/a-new-era-for-crypto-security-57909a095ae3)
+- [A Complete Beginner’s Guide to Using MetaMask (Ian Lee)](https://www.coingecko.com/buzz/complete-beginners-guide-to-metamask)
+- [MyCrypto’s Security Guide For Dummies And Smart People Too](https://medium.com/mycrypto/mycryptos-security-guide-for-dummies-and-smart-people-too-ab178299c82e)
 
 # Part Three: Deep diving into DeFi
 
@@ -224,3 +206,98 @@ Dai is collateralized using cryptocurrencies such as ETH. DAI is decentralized, 
 DAI is the native stablecoin used most widely in the DeFi ecosystem. DAI is created by Maker.
 
 ### What is Maker?
+
+### Differences between SAI and DAI
+
+### How does Maker govern the system
+
+### Motivations to issue DAI
+
+### How to get some DAI
+
+### Black Swan event
+
+### Why use Maker?
+
+### Ch5 Links
+
+## Chapter 6: Decentralized Lending and Borrowing
+
+### Intro to Compound
+
+### How much interest will you receive or pay?
+
+### How do I start (using Compound, lending and borrowing)?
+
+### What are cTokens?
+
+### Price movement of collateral asset
+
+### Liquidation
+
+### Ch6 Links
+
+## Chapter 7: Decentralized Exchanges
+
+Centralized Exchanges allow large trades to happen with their ample liquidity, but they still carry a lot of risks like the exchanges being hacked. 
+
+DEXes eliminate the need for an intermediary by using smart contracts and on-chain transactions. In 2022, some of the biggest DEXes by volume are Uniswap, PancakeSwap, SushiSwap, SpookySwap and TraderJoe.
+
+There are 2 kinds of DEXes:
+
+- Order-book based
+- Liquidity pool based
+
+Order-book DEXes like dYdX operate similarly to CEXes where users can place limit and market buy and sell orders, the main difference is that assets are held on the users' wallets.
+
+The problem with order-book DEXes is liquidity. To solve this, liquidity pool based DEXes were introduced. **Liquidity pools** are basically reserves of tokens in smart contracts that users can buy or sell instantly. The price of the token is determined algorithmically. A liquidity pool can be shared by multiple DEX platforms.
+
+One key feature offered by CEXes is margin trading, the ability for an investor to trade on a leveraged position. Innovations have brought margin trading to DEXes like dYdX.
+
+### Intro to Uniswap
+
+Uniswap is a decentralized token exchange protocol built on Ethereum, where you can swap tokens directly from your wallet. **There is no order book and exchange rate is determined algorithmically. This is achieved via liquidity pools and the automated market maker mechanism**.
+
+### Uniswap's Liquidity Pools
+
+A liquidity pool is basically a token reserved that lives in a smart contract.
+
+The reserves on these pools are provided by **liquidity providers**, who are incentivized to add liquidity by obtaining a part of Uniswap's transaction fee.
+
+Anyone can participate as a liquidity provider as long as they supply the required ETH and other token pair.
+
+### Automated Market Maker Mechanism
+
+Prices of assets in the pool are determined using the Automated Market Maker (AMM) algorithm. 
+
+Then comes a description of the AMM formula.
+
+Basically, remember that the larger the amount of ETH a user wishes to buy, the larger the premium to be charged, tending to infinity so that the pool doesn't run out.
+
+### How to get a token added on Uniswap?
+
+Anyone can list a ERC-20 token on Uniswap and provide liquidity for it. All a user needs to do is to interact with the platform and a new market will be initialized for the token.
+
+### Uniswap Links
+
+- [Uniswap Docs](https://docs.uniswap.org/protocol/introduction)
+- [The Ultimate Guide to Uniswap](https://defitutorials.substack.com/p/the-ultimate-guide-to-uniswap?s=r)
+- [A Graphical Guide for Understanding Uniswap](https://docs.ethhub.io/guides/graphical-guide-for-understanding-uniswap/)
+- [Cyrus Younessi - Uniswap: A unique exchange](https://medium.com/scalar-capital/uniswap-a-unique-exchange-f4ef44f807bf)
+- [What is Uniswap? A detailed beginners guide](https://www.mycryptopedia.com/what-is-uniswap-a-detailed-beginners-guide)
+- [Are Uniswap's liquidity pools right for you?](https://defiprime.com/uniswap-liquidity-pools)
+- [Understanding Uniswap returns](https://pintail.medium.com/understanding-uniswap-returns-cc593f3499ef)
+- [Uniswap Traction Analysis](https://www.covalenthq.com/blog/understanding-uniswap-data-analysis/)
+- [A deep dive into liquidity pools](https://blog.zerion.io/liquidity-pools-8ac8cf8cf230?gi=5f4daaf02513)
+
+### Intro to dYdX
+
+### Lending
+
+### Borrowing
+
+### Margin & Leveraged Trading
+
+### dYdX Recommended Readings
+
+## 
